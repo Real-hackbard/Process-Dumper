@@ -57,8 +57,13 @@ Files that contain resources include: EXE, DLL, CPL, SCR, SYS and MUI files.
 The Windows API provides a computer program access to resources.
 
 Each resource has a type and a name, both being either numeric identifiers or strings.
-
 Windows has a set of predefined resource types:
+
+</br>
+
+![Resource](https://github.com/user-attachments/assets/ae146efb-5ba7-4807-98c2-a58a2806be56)
+
+</br>
 
 ### Types:  
 * [Cursor and animated Cursor](https://en.wikipedia.org/wiki/Cursor_(user_interface))
